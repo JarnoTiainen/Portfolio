@@ -24,7 +24,7 @@ github: [metadata]
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Portfolio
-email: tiainenjarno@gmial.com
+email: tiainenjarno@gmail.com
 description: Jarno Tiainen Portfolio
 twitter_username: none
 github_username: JarnoTiainen
